@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3aecc7ab-6b61-4996-8b5e-b0ced518401c" alt="APS Logo" width="400">
+  <img src="https://github.com/user-attachments/assets/510d7586-79cd-4165-84c2-b74ead251606" alt="APS Logo" width="400">
 </p>
 
 # A.P.S-Acervo-de-Projetos-Senac
